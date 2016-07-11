@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">ContactManager</string>
+    <string name="titleContentCreator">Content Creator</string>
+    <string name="titleContactName">Contact Name</string>
+    <string name="titlePhoneNumber">Phone Number</string>
+    <string name="titleEmail">Email</string>
+    <string name="titleAddress">Address</string>
+    <string name="buttonAddContact">Add Contact</string>
 </resources>
